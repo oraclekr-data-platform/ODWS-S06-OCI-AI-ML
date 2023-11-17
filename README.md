@@ -1,5 +1,5 @@
 # ODWS-S07-OCI-AI-ML
-
+Oracle Data Platform 워크샵에서 OCI-Data Science를 이용한 ML 모델 생성 및 배포 파트 입니다.
 ---
 
 Repository에 포함된 4가지 노트북은 두 가지 버젼으로 제작
