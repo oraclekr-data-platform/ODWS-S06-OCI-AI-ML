@@ -1,5 +1,6 @@
 # ODWS-S07-OCI-AI-ML
-<span style="font-size:30%">Oracle Data Platform 워크샵에서 OCI-Data Science를 이용한 ML 모델 생성 및 배포 파트 입니다.
+
+<span style="font-size:30%">Oracle Data Platform 워크샵에서 OCI-Data Science를 이용한 ML 모델 생성 및 배포 파트 입니다.</span> 
 
 ---
 
@@ -23,4 +24,3 @@ Lab1, Demo1 노트북의 데이터 로드하는 부분의 해당하는 부분을
                               "service_name": "dbname-연결레벨(high/medium/low)", 
                               "wallet_location": "월렛을 업로드시킨 노트북 세션의 위치"
                             }
-</span> 
