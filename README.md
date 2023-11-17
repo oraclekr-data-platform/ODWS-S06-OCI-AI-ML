@@ -1,4 +1,5 @@
 # ODWS-S07-OCI-AI-ML
+<span style="font-size:50%">폰트사이즈 50</span> 
 Oracle Data Platform 워크샵에서 OCI-Data Science를 이용한 ML 모델 생성 및 배포 파트 입니다.
 ---
 
